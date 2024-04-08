@@ -1,1 +1,7 @@
-# Respark
+# ReSpark: An LLM-driven Method to Revive Data Reports with New Data
+
+The growing influx of data has resulted in a significant demand for data reports. However, creating data reports involves complex decision-making processes and requires careful consideration, which can be time-consuming and mentally draining. Existing data reports on similar topics can serve as a valuable reference for authoring new ones, as they are often aligned in analytical objectives, data transformations, and data insights. However, adapting to new data necessitates substantial modifications due to potential data variations, not to mention that the original codes and logs of the referred reports are usually inaccessible. Therefore, despite having existing reports as a good starting point, data scientists still face the laborious and mentally taxing task of manually identifying new data features, adjusting the methods, and reconstructing analytical workflows. In this study, we propose ReSpark, which leverages large language models (LLMs) to revive data reports with new data. ReSpark initially parses the existing report into a series of interdependent segments, each corresponding to an analytical objective, and then executes the objectives with new data. During the execution process, ReSpark identifies the inconsistencies and customizes the analytical objectives, data transformation steps, and textual descriptions. We further develop an interactive interface for ReSpark, enabling users to review real-time outputs, insert new analytical objectives, and modify report content and structure. We demonstrate ReSpark's effectiveness through comparative studies. 
+
+## Demo
+
+The demo will be released on April 12. 
