@@ -4,4 +4,6 @@ The growing influx of data has resulted in a significant demand for data reports
 
 ## Demo
 
-The demo will be released on April 14. 
+<video width="80%" controls loop="" muted="" autoplay="">
+    <source src="https://github.com/ReSpark2024/respark2024.github.io/raw/main/assets/demo.mp4">
+</video>
