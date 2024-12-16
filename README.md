@@ -7,3 +7,8 @@ Creating data reports is time-consuming, as it requires iterative exploration an
 <video width="80%" controls loop="" muted="" autoplay="">
     <source src="https://github.com/ReSpark2024/respark2024.github.io/raw/main/assets/demo.mp4">
 </video>
+
+## Prompt Used
+
+ * Prompt for ReSpark system: https://github.com/ReSpark2024/respark2024.github.io/blob/main/assets/system%20prompts.pdf
+ * Prompt for baselines: https://github.com/ReSpark2024/respark2024.github.io/blob/main/assets/prompts%20for%20baseline.pdf
